@@ -1,0 +1,14 @@
+C:\Users\quest\source\repos\Boss Battle\bin\Debug\net8.0\Boss Battle.exe
+C:\Users\quest\source\repos\Boss Battle\bin\Debug\net8.0\Boss Battle.deps.json
+C:\Users\quest\source\repos\Boss Battle\bin\Debug\net8.0\Boss Battle.runtimeconfig.json
+C:\Users\quest\source\repos\Boss Battle\bin\Debug\net8.0\Boss Battle.dll
+C:\Users\quest\source\repos\Boss Battle\bin\Debug\net8.0\Boss Battle.pdb
+C:\Users\quest\source\repos\Boss Battle\obj\Debug\net8.0\Boss Battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quest\source\repos\Boss Battle\obj\Debug\net8.0\Boss Battle.AssemblyInfoInputs.cache
+C:\Users\quest\source\repos\Boss Battle\obj\Debug\net8.0\Boss Battle.AssemblyInfo.cs
+C:\Users\quest\source\repos\Boss Battle\obj\Debug\net8.0\Boss Battle.csproj.CoreCompileInputs.cache
+C:\Users\quest\source\repos\Boss Battle\obj\Debug\net8.0\Boss Battle.dll
+C:\Users\quest\source\repos\Boss Battle\obj\Debug\net8.0\refint\Boss Battle.dll
+C:\Users\quest\source\repos\Boss Battle\obj\Debug\net8.0\Boss Battle.pdb
+C:\Users\quest\source\repos\Boss Battle\obj\Debug\net8.0\Boss Battle.genruntimeconfig.cache
+C:\Users\quest\source\repos\Boss Battle\obj\Debug\net8.0\ref\Boss Battle.dll

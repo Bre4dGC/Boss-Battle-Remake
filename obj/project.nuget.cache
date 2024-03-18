@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DtLh+bsbwtBeZ0cGFeW0VWDEPwi1/a6/5tcXawa7GBrqCG1ZgJDZK9RVHcaLzh07mF9oOEsVUs6Nb51f2vClIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\quest\\source\\repos\\Boss Battle\\Boss Battle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\quest\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\quest\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\quest\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\quest\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.1\\microsoft.netcore.app.host.win-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
