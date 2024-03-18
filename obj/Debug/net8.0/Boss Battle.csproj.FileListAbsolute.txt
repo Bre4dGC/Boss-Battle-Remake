@@ -12,3 +12,4 @@ C:\Users\quest\source\repos\Boss Battle\obj\Debug\net8.0\refint\Boss Battle.dll
 C:\Users\quest\source\repos\Boss Battle\obj\Debug\net8.0\Boss Battle.pdb
 C:\Users\quest\source\repos\Boss Battle\obj\Debug\net8.0\Boss Battle.genruntimeconfig.cache
 C:\Users\quest\source\repos\Boss Battle\obj\Debug\net8.0\ref\Boss Battle.dll
+C:\Users\quest\source\repos\Boss Battle\obj\Debug\net8.0\Boss Battle.sourcelink.json
